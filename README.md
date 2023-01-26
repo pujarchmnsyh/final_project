@@ -1,15 +1,9 @@
-# Laravel 8 - Futsal booking Berbasis Web
-
-## Screenshots
-
-![preview img](/preview.png)
-
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/abdulaziz-m5u/Futsal-web-application.git project-name
+  git clone https://github.com/pujarchmnsyh/final_project.git project-name
 ```
 
 Go to the project directory
